@@ -92,3 +92,11 @@ document.addEventListener("keydown", function(event){
         display.innerText = "";
     }
 });
+const themeToggle = document.getElementById("themeToggle");
+themeToggle.addEventListener("change", function () {
+    if (this.checked) {
+        document.body.classList.add("darktheme");
+    } else {
+        document.body.classList.remove("darktheme");
+    }
+});
