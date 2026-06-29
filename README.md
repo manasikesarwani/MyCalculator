@@ -9,6 +9,7 @@ A calculator built using HTML, CSS, and JavaScript.
 - Glitter cursor effect
 - Basic arithmetic operations
 - Clean and modern design
+- Theme switcher
 
 ## Technologies Used
 
@@ -20,7 +21,6 @@ A calculator built using HTML, CSS, and JavaScript.
 
 - Scientific mode
 - Calculation history
-- Theme switcher
 - Memory buttons
 
 ## Author
